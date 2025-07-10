@@ -1,0 +1,27 @@
+
+{
+  "expo": {
+    "name": "EmotionLink",
+    "slug": "emotion-link-app",
+    "version": "1.0.0",
+    "sdkVersion": "53.0.0",
+    "platforms": ["ios", "android"],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.markcola1010.emotionlink"
+    }
+  }
+}
